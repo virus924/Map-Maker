@@ -1,6 +1,8 @@
 # Map-Maker
 Simple AI to create a fully connected map on a grid
 
+Run the MapAI.java file in order to run the program. The size of the map is currently adjusted from within the file itself.
+
 NOTE - omitting original Node.java file created for this project. That path was not followed, so it should be obsolete in terms of where the project is
 
 Large portion of this project uses a theme I call infecting.
